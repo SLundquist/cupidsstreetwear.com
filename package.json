@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "browser-sync": "^3.0.3",
+    "cssnano": "^7.0.6",
+    "gulp": "^5.0.0",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.80.3"
+  }
+}
